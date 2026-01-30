@@ -1,5 +1,46 @@
-# 💫 About Me:
-Customers Management System Platform for a private company.<br>Looking to collaborate on Laravel, vueJS, NextJS Project.<br>Looking for help with Frontend Framework such as React, Next, Nest, Nuxt.<br>Currently Learning JS Stack Environment.<br>Ask me about Laravel.<br>If your code works, don't touch !!!!! <br>
+### 💫 About Me:
+## 👋 Hi, I'm a Full-Stack Developer with a strong Backend focus
+
+I specialize in **Laravel-based backend systems** and build **scalable, maintainable web applications** with clean architecture and clear domain boundaries.
+
+### 🧠 Core Expertise
+- Backend Development with **Laravel**
+- RESTful & API-first architecture
+- Authentication & Authorization (Sanctum, JWT)
+- Payment integrations (Mobile Money, Cards)
+- Database design (PostgreSQL, MySQL)
+- Clean Code, Services, Repositories, DTOs
+- Background jobs, queues, schedulers
+
+### 🎨 Frontend (when needed)
+- Blade, Vue 3, Nuxt
+- Inertia.js
+- Basic UX integration (not design-heavy)
+
+### 🛠 Tech Stack
+- PHP 8+, Laravel
+- PostgreSQL / MySQL
+- Redis, Queues, Cron
+- Docker (basic)
+- GitHub Actions / CI
+- Linux environments
+
+### 📌 Philosophy
+I focus on:
+- **Business logic clarity**
+- **Testable code**
+- **Scalable architecture**
+- **Long-term maintainability**
+
+I commit less frequently but with **intentional, meaningful changes**.
+
+---
+
+📫 Open to:
+- Freelance
+- Long-term contracts
+- Backend-heavy full-stack roles
+
 
 
 ## 🌐 Socials:
