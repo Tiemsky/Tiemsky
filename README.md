@@ -58,7 +58,6 @@ I commit less frequently but with **intentional, meaningful changes**.
 
 ### 😂 Random Dev Meme
 **“Good code works. Great code survives change.”**
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tiemsky&icon=0&color=0)](https://visitcount.itsvg.in)
