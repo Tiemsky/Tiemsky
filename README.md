@@ -1,7 +1,7 @@
 # 💫 About Me:
-## 👋 Hi, I'm a Full-Stack Developer with a strong Backend focus
+# 👋 Hi, I'm a Full-Stack Developer with a strong Backend focus
 
-I specialize in **Laravel-based backend systems** and build **scalable, maintainable web applications** with clean architecture and clear domain boundaries.
+I specialize in **Laravel-based backend systems** and build **scalable, maintainable web applications** with clean architecture and clear code.
 
 ### Core Expertise
 - Backend Development with **Laravel**
