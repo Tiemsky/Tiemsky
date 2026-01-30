@@ -1,9 +1,9 @@
-### 💫 About Me:
+# 💫 About Me:
 ## 👋 Hi, I'm a Full-Stack Developer with a strong Backend focus
 
 I specialize in **Laravel-based backend systems** and build **scalable, maintainable web applications** with clean architecture and clear domain boundaries.
 
-### 🧠 Core Expertise
+### Core Expertise
 - Backend Development with **Laravel**
 - RESTful & API-first architecture
 - Authentication & Authorization (Sanctum, JWT)
@@ -12,12 +12,12 @@ I specialize in **Laravel-based backend systems** and build **scalable, maintain
 - Clean Code, Services, Repositories, DTOs
 - Background jobs, queues, schedulers
 
-### 🎨 Frontend (when needed)
+### Frontend (when needed)
 - Blade, Vue 3, Nuxt
 - Inertia.js
 - Basic UX integration (not design-heavy)
 
-### 🛠 Tech Stack
+### Tech Stack
 - PHP 8+, Laravel
 - PostgreSQL / MySQL
 - Redis, Queues, Cron
@@ -25,7 +25,7 @@ I specialize in **Laravel-based backend systems** and build **scalable, maintain
 - GitHub Actions / CI
 - Linux environments
 
-### 📌 Philosophy
+### Philosophy
 I focus on:
 - **Business logic clarity**
 - **Testable code**
